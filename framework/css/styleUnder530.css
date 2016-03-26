@@ -1,0 +1,130 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+img, embed, object, video {
+	max-width: 100%;
+}
+
+.name {
+	text-align: right;
+	text-transform: uppercase;
+	color: #839192;
+	font-family: 'Raleway', sans-serif;
+  font-size: medium;
+}
+
+.nameTitles {
+	text-align: right;
+	color: #839192;
+	font-family: 'Raleway', sans-serif;
+}
+
+.grid {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.navbar {
+	align-content: center;
+	text-align: center;
+	background-color: black;
+	color: white;
+	margin: 2% 1%;
+	padding: 5px 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+.navbar:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+h1, h3, h5, p {
+	margin: 2% 0;
+	align-content: center;
+	text-align: center;
+}
+
+.portfolioTitle{
+	color: #BCBBBB;
+	text-align: center;
+	align-content: center;
+}
+
+.projects{
+	align-content: center;
+	text-align: center;
+}
+
+.mainPicture {
+	max-height: 500px;
+}
+
+
+.row {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.col-1 {
+    width: 50%;
+
+}
+
+.col-2 {
+    width: 50%;
+}
+
+.col-3 {
+    width: 50%;
+}
+
+.col-4 {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.col-5 {
+    width: 50%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 100%;
+}
+
+.col-8 {
+    width: 100%;
+}
+
+.col-9 {
+    width: 100%;
+}
+
+.col-10 {
+    width: 100%;
+}
+
+.col-11 {
+    width: 100%;
+}
+
+.col-12 {
+    width: 100%;
+}
