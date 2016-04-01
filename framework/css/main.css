@@ -30,6 +30,11 @@ img, embed, object, video {
     width: 100%;
 }
 
+.KCLogo-img {
+     width: 150px;
+     height: 100%;
+}
+
 .navbar {
 	align-content: center;
 	text-align: center;
@@ -51,6 +56,10 @@ img, embed, object, video {
   cursor: pointer;
 }
 
+.main-img {
+	height: 500px; 
+	width: 100%
+}
 
 h1, h3, h5, p {
 	margin: 2% 0;
@@ -64,13 +73,25 @@ h1, h3, h5, p {
 	align-content: center;
 }
 
+.mobile-dev-img {
+	height: 150px; 
+	width: 150px
+}
+
+.non-mobile-dev-img {
+	height: 150px; 
+	width: 350px
+}
+
 .projects{
 	align-content: center;
 	text-align: center;
 }
 
-.mainPicture {
-	max-height: 500px;
+.twitter-img {
+	border:0;
+	width:88px;
+	height:31px
 }
 
 

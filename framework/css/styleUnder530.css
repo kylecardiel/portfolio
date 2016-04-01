@@ -29,6 +29,11 @@ img, embed, object, video {
     width: 100%;
 }
 
+.KCLogo-img {
+     width: 150px;
+     height: 100%;
+}
+
 .navbar {
 	align-content: center;
 	text-align: center;
@@ -57,19 +62,36 @@ h1, h3, h5, p {
 	text-align: center;
 }
 
+.main-img {
+  height: 200px; 
+  width: 100%
+}
+
 .portfolioTitle{
 	color: #BCBBBB;
 	text-align: center;
 	align-content: center;
 }
 
-.projects{
-	align-content: center;
-	text-align: center;
+.mobile-dev-img {
+  height: 150px; 
+  width: 150px
 }
 
-.mainPicture {
-	max-height: 500px;
+.non-mobile-dev-img {
+  height: 150px; 
+  width: 350px
+}
+
+.projects{
+  align-content: center;
+  text-align: center;
+}
+
+.twitter-img {
+  border:0;
+  width:88px;
+  height:31px
 }
 
 
